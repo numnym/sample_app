@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.8'
+gem 'bootstrap-sass', '2.0.0'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -42,4 +43,4 @@ gem 'jquery-rails', '2.0.2'
 # gem 'capistrano'
 
 # To use debugger
-# gem 'debugger'
+# gem 'debuger'
